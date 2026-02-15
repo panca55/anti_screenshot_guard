@@ -4,7 +4,7 @@
 [![likes](https://img.shields.io/pub/likes/anti_screenshot_guard)](https://pub.dev/packages/anti_screenshot_guard/score)
 [![popularity](https://img.shields.io/pub/popularity/anti_screenshot_guard)](https://pub.dev/packages/anti_screenshot_guard/score)
 [![points](https://img.shields.io/pub/points/anti_screenshot_guard)](https://pub.dev/packages/anti_screenshot_guard/score)
-[![license](https://img.shields.io/github/license/pancanugraha/anti_screenshot_guard)](https://github.com/pancanugraha/anti_screenshot_guard/blob/main/LICENSE)
+[![license](https://img.shields.io/github/license/panca55/anti_screenshot_guard)](https://github.com/panca55/anti_screenshot_guard/blob/main/LICENSE)
 
 A Flutter plugin to prevent screenshots and detect screenshot events on Android and iOS.
 
@@ -31,7 +31,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  anti_screenshot_guard: ^1.0.0
+  anti_screenshot_guard: ^1.0.2
 ```
 
 ## Usage
