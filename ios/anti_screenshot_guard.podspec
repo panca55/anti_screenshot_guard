@@ -4,12 +4,12 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'anti_screenshot_guard'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'A Flutter plugin to prevent screenshots and detect screenshot events.'
   s.description      = <<-DESC
 A Flutter plugin to prevent screenshots and detect screenshot events on Android and iOS.
                        DESC
-  s.homepage         = 'https://github.com/pancanugraha/anti_screenshot_guard'
+  s.homepage         = 'https://github.com/panca55/anti_screenshot_guard'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Panca Nugraha' => 'panca@example.com' }
   s.source           = { :path => '.' }

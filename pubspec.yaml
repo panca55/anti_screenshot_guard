@@ -1,6 +1,6 @@
 name: anti_screenshot_guard
 description: A Flutter plugin to prevent screenshots and detect screenshot events on Android and iOS.
-version: 1.0.2
+version: 1.0.4
 homepage: https://github.com/panca55/anti_screenshot_guard
 repository: https://github.com/panca55/anti_screenshot_guard
 issue_tracker: https://github.com/panca55/anti_screenshot_guard/issues

@@ -31,7 +31,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  anti_screenshot_guard: ^1.0.2
+  anti_screenshot_guard: ^1.0.4
 ```
 
 ## Usage
